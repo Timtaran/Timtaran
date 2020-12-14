@@ -2,7 +2,7 @@
 
 #### Languages
 
-![Python](https://img.shields.io/badge/Python-40304f?style=for-the-badge&logo=python&logoColor=ffde00)
+![Python](https://sun9-15.userapi.com/c853620/v853620521/1dd9e4/rHa7Z3mF4L4.jpg)
 
 #### Contacts
 
