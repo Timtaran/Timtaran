@@ -2,7 +2,7 @@
 
 #### Languages
 
-![Python](https://sun9-75.userapi.com/impg/tfbXvoM68FGmIfo-od5jmkYUN9MI1gGhJDfQVA/BPpuUsS6Iyo.jpg?size=20x12&quality=96&proxy=1&sign=54d6fbed67adc207dd86dc45080476b0&type=album)
+![Python](https://sun9-25.userapi.com/impg/uO8XoTRXIw0cm9QKYFTHyaBFwXxq3c7Cy5fSFQ/YUe51SNuyzo.jpg?size=75x50&quality=96&proxy=1&sign=653d0d6234948b3ed797e282a77a75b6&type=album)
 
 #### Contacts
 
