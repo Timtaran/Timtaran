@@ -1,4 +1,4 @@
-![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timtaran&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
+![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timtaran&show_icons=true&hide_border=true&theme=chartreuse-dark")](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contacts
 
