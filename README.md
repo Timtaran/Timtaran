@@ -1,3 +1,5 @@
+Какой-то 14 y.o. programmer. (nedoprogramist)
+
 ![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timtaran&show_icons=true&theme=chartreuse-dark&hide_border=true")](https://github.com/Timtaran/github-readme-stats)
 
 #### Contacts
