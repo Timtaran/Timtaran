@@ -1,6 +1,6 @@
 # Who am I?
 
-Stupid 14. y.o. kid what coding on python from fucking 10 years. And guy what do anything, but not programming about 10 month in year.
+Stupid 14. y.o. kid what coding on python from fucking 10 years. And guy who do anything, but not programming about 10 month in year.
 
 # What kind of things I coding?
 
