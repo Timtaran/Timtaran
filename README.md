@@ -12,6 +12,12 @@ Main - <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c02
 
 Using rarely - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40" title="JS"/>
 
+# What frameworks I'm using?
+
+Python - discord.py/disnake, AIOgram, VKBottle, Django, SQLAlchemy and etc.
+
+JS - IDK lol.
+
 # Stats
 
 ![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=dark#gh-dark-mode-only&locale=ru) 
