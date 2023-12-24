@@ -1,6 +1,22 @@
-![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=chartreuse-dark) 
+# Who am I?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timtaran&show_icons=true&theme=chartreuse-dark&hide_border=true")](https://github.com/Timtaran/github-readme-stats)
+Stupid 14. y.o. kid what coding on python from fucking 10 years.
+
+# What kind of things I coding?
+
+Discord/Telegram/VKontake Bots, some Django websites.
+
+# What languages do I know?
+
+Main - <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+
+Using rarely - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40" title="JS"/>
+
+# Stats
+
+![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=dark#gh-dark-mode-only&locale=ru) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timtaran&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true&locale=ru")](https://github.com/Timtaran/github-readme-stats)
 
 #### Contacts
 
