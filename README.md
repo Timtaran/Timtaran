@@ -18,15 +18,18 @@ Python - discord.py/disnake, AIOgram, VKBottle, Django, SQLAlchemy and etc.
 
 JS - IDK lol.
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 # Stats
 
 ![Timtaran's github stats](https://github-readme-stats.vercel.app/api?username=Timtaran&show_icons=true&theme=dark#gh-dark-mode-only&locale=ru) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timtaran&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true&locale=ru")](https://github.com/Timtaran/github-readme-stats)
 
-#### Contacts
+# Contacts
 
 [![ВКонтакте](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/timtaran_yt)
 [![Youtube](https://img.shields.io/badge/Youtube-30384f?style=for-the-badge&logo=youtube&logoColor=fb4747)](https://www.youtube.com/channel/Timtaran)
 [![Telegram](https://img.shields.io/badge/Telegram-304f46?style=for-the-badge&logo=telegram)](https://t.me/timtaran)
 [![Twitch](https://img.shields.io/badge/twitch-40304f?style=for-the-badge&logo=twitch)](https://twitch.tv/timtaran)
+
