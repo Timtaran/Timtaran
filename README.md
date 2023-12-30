@@ -10,7 +10,7 @@ Discord/Telegram/VKontake Bots, some Django websites.
 
 Main - <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/>
 
-Using rarely - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40" title="JS"/>
+Using rarely - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40" title="JS"/> (sorry, guys, I mean nodejs)
 
 # What frameworks I'm using?
 
