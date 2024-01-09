@@ -8,15 +8,12 @@ Discord/Telegram/VKontake Bots, some Django websites.
 
 # What languages do I know?
 
-Main - <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-
-Using rarely - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40" title="JS"/> (sorry, guys, I mean nodejs)
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+and maybe little know other.
 
 # What frameworks I'm using?
 
 Python - discord.py/disnake, AIOgram, VKBottle, Django, SQLAlchemy and etc.
-
-JS - IDK lol.
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
