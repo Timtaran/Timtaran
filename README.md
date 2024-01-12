@@ -13,7 +13,7 @@ and maybe little know other.
 
 # What frameworks I'm using?
 
-Python - discord.py/disnake, AIOgram, VKBottle, Django, SQLAlchemy and etc.
+Python - discord.py/disnake, AIOgram, VKBottle, Django, SQLAlchemy, FastAPI and etc.
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
