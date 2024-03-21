@@ -8,14 +8,9 @@ Discord/Telegram/VKontake Bots, some Django websites.
 
 # What languages do I know?
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-and maybe little know other.
+Working with Python, sometimes with JS, Java.
 
-# What frameworks I'm using?
-
-Python - discord.py/disnake, AIOgram, VKBottle, Django, SQLAlchemy, FastAPI and etc.
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Timtaran&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 # Stats
 
