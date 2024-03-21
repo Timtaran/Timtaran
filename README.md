@@ -6,9 +6,9 @@ Stupid 14. y.o. kid what coding on python from fucking 10 years. And guy who do 
 
 Discord/Telegram/VKontake Bots, some Django websites.
 
-# What languages do I know?
+# What languages I know?
 
-Working with Python, sometimes with JS, Java.
+Python, superficially JS, Java
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Timtaran&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
