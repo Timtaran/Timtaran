@@ -1,3 +1,5 @@
+![...](https://count.getloli.com/get/@timtaran?theme=rule34)
+
 # Who am I?
 
 Stupid 14. y.o. kid what coding on python from fucking 10 years. And guy who do anything, but not programming about 10 month in year.
