@@ -3,13 +3,7 @@
 Stupid 14. y.o. kid what coding on python from fucking 10 years. And guy who do anything, but not programming about 10 month in year.
 
 # What kind of things I coding?
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
+
 Discord/Telegram/VKontake Bots, some Django websites.
 
 # What languages I know?
