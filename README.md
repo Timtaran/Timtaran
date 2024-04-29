@@ -1,7 +1,3 @@
-![...](https://count.getloli.com/get/@timtaran?theme=rule34)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=00F72A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Timtaran's+README.MD;Loading...)](https://git.io/typing-svg)
-
 # Who am I?
 
 Stupid 14. y.o. kid what coding on python from fucking 10 years. And guy who do anything, but not programming about 10 month in year.
@@ -29,3 +25,4 @@ Python, superficially JS, Java
 [![Telegram](https://img.shields.io/badge/Telegram-304f46?style=for-the-badge&logo=telegram)](https://t.me/timtaran)
 [![Twitch](https://img.shields.io/badge/twitch-40304f?style=for-the-badge&logo=twitch)](https://twitch.tv/timtaran)
 
+![...](https://count.getloli.com/get/@timtaran?theme=rule34)
