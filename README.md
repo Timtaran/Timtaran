@@ -6,7 +6,6 @@
 <pre>
     👶 14 y.o. backend developer with 4 years experience 👶
     🐍 Creating bots and backend using python. 🐍
-    🏫 Learning Rust • Java • FrontEnd for future projects (don't ask) 🏫
     🪟 Using Windows • Linux • Android 🪟
 </pre>
 <br><br>
