@@ -4,13 +4,13 @@
 
 <br><br>
 <pre>
-    👶 14 y.o. backend developer with 4 year experience 👶
-    🐍 Creating bots and backend using python. 🐍
-    🪟 Using Windows • Linux • Android 🪟
+👶 14 y.o. backend developer with 4 year experience 👶
+🐍 Creating bots and backend using python. 🐍
+🪟 Using Windows • Linux • Android 🪟
 </pre>
 <br><br>
 
-[![](https://img.shields.io/badge/links-71eb71?style=for-the-badge)](https://ttrn.clowns.dev)
+[![](https://img.shields.io/badge/links-71eb71?style=for-the-badge)](https://timtaran.bio.link/)
 
 <img src="https://count.getloli.com/get/@timtaran?theme=rule34" width="30%" />
 </div>
