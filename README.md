@@ -12,7 +12,7 @@
 
 [![](https://img.shields.io/badge/links-71eb71?style=for-the-badge)](https://timtaran.bio.link/)
 
-<img src="https://count.getloli.com/get/@timtaran?theme=rule34" width="30%" />
+<img src="https://count.chiya.dev/get/@timtaran?theme=rule34" width="30%" />
 </div>
 
 <!-- (innng github readme used as reference, thx) -->
