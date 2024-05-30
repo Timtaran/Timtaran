@@ -4,8 +4,9 @@
 
 <br><br>
 <pre>
-👶 14 y.o. backend developer with 4 year experience 👶
-🐍 Creating bots and backend using python. 🐍
+👶 14 y.o. developer with 4 year coding experience 👶
+🐍 Creating bots and backend using python 🐍
+📖 Learning Golang and Java for future projects 📖
 🪟 Using Windows • Linux • Android 🪟
 </pre>
 <br><br>
