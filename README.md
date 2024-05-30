@@ -13,6 +13,9 @@
 [![](https://img.shields.io/badge/links-71eb71?style=for-the-badge)](https://timtaran.bio.link/)
 
 <img src="https://count.chiya.dev/get/@timtaran?theme=rule34" width="30%" />
+
+[![](https://wakatime.com/badge/user/018dc745-4f49-49e8-a167-2b59ae66498a.svg)](https://wakatime.com/@018dc745-4f49-49e8-a167-2b59ae66498a)
+
 </div>
 
 <!-- (innng github readme used as reference, thx) -->
