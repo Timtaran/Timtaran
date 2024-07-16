@@ -1,8 +1,8 @@
 <div align="center">
 <div>
 <img src="assets/Ch_coc_img_01.webp" width="25%" align="left" />
-<a href="https://github.com/Timtaran"><img src="assets/readme1.png" href="https://github.com/Timtaran" width="70%" /></a>
-<a href="https://clowns.dev"><img src="assets/readme2.png" width="70%" /></a>
+<a href="https://github.com/Timtaran"><img src="assets/readme1.png" href="https://github.com/Timtaran" width="72%" /></a>
+<a href="https://clowns.dev"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
 👶 14 y.o. developer with 4 year coding experience 👶
