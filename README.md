@@ -1,4 +1,5 @@
 <div align="center">
+<div>
 <img src="assets/Ch_coc_img_01.webp" width="25%" align="left" />
 <a href="https://github.com/Timtaran"><img src="assets/readme1.png" href="https://github.com/Timtaran" width="70%" /></a>
 <a href="https://clowns.dev"><img src="assets/readme2.png" width="70%" /></a>
@@ -9,7 +10,7 @@
 📖 Learning Rust and Java for future projects 📖
 🪟 Using Windows • Linux • Android 🪟
 </pre>
-<br><br>
+</div>
 
 <img src="https://count.chiya.dev/get/@timtaran?theme=rule34" width="30%" />
 
