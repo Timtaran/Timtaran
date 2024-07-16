@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/Ch_coc_img_01.webp" width="25%" align="left" />
-<img src="assets/readme1.png" width="70%" />
-<img src="assets/readme2.png" width="70%" />
+<img src="assets/readme1.png" href="https://github.com/Timtaran" width="70%" />
+<img src="assets/readme2.png" href="https://clowns.dev/" width="70%" />
 
 <pre>
 👶 14 y.o. developer with 4 year coding experience 👶
