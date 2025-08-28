@@ -14,10 +14,14 @@
 </pre>
 <br>
 
-My open-source projects:
+<div align="left">
+
+  My open-source projects:
 - [Disable Elytra Outside The End](https://github.com/Timtaran/disable-elytra-outside-the-end) - Minecraft mod that does what says in name
 - [demotivator-bot](https://github.com/Timtaran/demotivator-bot) - simple Telegram bot to create komarubot-like demotivators
-- [Simple Model Engine](https://github.com/Timtaran/sme) - PaperMC plugin to create animated scenes using custom models with add-on support in mind, abandobed due to parent project cancellation, but may be helpful for someone as half-finished prototype (will be relicensed as MIT a bit later) + [blender extension](https://github.com/Timtaran/sme-blender)
+- [Simple Model Engine](https://github.com/Timtaran/sme) - PaperMC plugin to create animated scenes using custom models with add-on support in mind, abandobed due to parent project cancellation, but may be helpful for someone as half-finished prototype + [blender extension](https://github.com/Timtaran/sme-blender) (also prototype)
+
+</div>
 
 <img src="https://count.getloli.com/@timtaran?theme=rule34" width="30%" />
 
