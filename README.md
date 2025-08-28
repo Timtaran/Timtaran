@@ -5,7 +5,7 @@
 <a href="https://t.me/ClownsProd"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
-👶 15 y.o. developer with 4 year coding experience 👶
+👶 15 y.o. developer with 5 year coding experience 👶
 🐍 Creating bots and backend using python 🐍
 🏔️ Creating simple websites using Nuxt and Vue 🏔️
 🦿 Animating in Blender 🦿
@@ -13,6 +13,11 @@
 🪟 Using Windows • Linux • Android 🪟
 </pre>
 <br>
+
+My open-source projects:
+- [Disable Elytra Outside The End](https://github.com/Timtaran/disable-elytra-outside-the-end) - Minecraft mod that does what says in name
+- [demotivator-bot](https://github.com/Timtaran/demotivator-bot) - simple Telegram bot to create komarubot-like demotivators
+- [Simple Model Engine](https://github.com/Timtaran/sme) - PaperMC plugin to create animated scenes using custom models with add-on support in mind, abandobed due to parent project cancellation, but may be helpful for someone as half-finished prototype (will be relicensed as MIT a bit later) + [blender extension](https://github.com/Timtaran/sme-blender)
 
 <img src="https://count.getloli.com/@timtaran?theme=rule34" width="30%" />
 
