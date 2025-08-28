@@ -5,11 +5,10 @@
 <a href="https://t.me/ClownsProd"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
-👶 15 y.o. developer with 5 year coding experience 👶
+👶 15 y.o. developer with 5 years of coding experience 👶
 🐍 Creating bots and backend using python 🐍
-🏔️ Creating simple websites using Nuxt and Vue 🏔️
+🍵 Creating Minecraft mods using NeoForge 🍵
 🦿 Animating in Blender 🦿
-📖 Learning Java for future projects 📖
 🪟 Using Windows • Linux • Android 🪟
 </pre>
 <br>
