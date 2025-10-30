@@ -24,8 +24,6 @@
 
 <img src="https://count.getloli.com/@timtaran?theme=rule34" width="30%" />
 
-[![](https://img.shields.io/badge/links-71eb71?style=for-the-badge)](https://timtaran.bio.link/) [![](https://wakatime.com/badge/user/018dc745-4f49-49e8-a167-2b59ae66498a.svg?style=for-the-badge)](https://wakatime.com/@018dc745-4f49-49e8-a167-2b59ae66498a)
-
 </div>
 
 <!-- (innng github readme used as reference, thx) -->
