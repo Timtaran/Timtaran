@@ -5,7 +5,7 @@
 <a href="https://t.me/ClownsProd"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
-👶 15 y.o. developer with 5 years of coding experience 👶
+👶 16 y.o. developer with 6 years of shit-coding and 0 years of coding experience 👶
 🐍 Creating bots and backend using python 🐍
 🍵 Creating Minecraft mods using NeoForge 🍵
 🦿 Animating in Blender 🦿
