@@ -5,11 +5,11 @@
 <a href="https://t.me/ClownsProd"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
-👶 16 y.o. developer with 6 years of shit-coding and 0 years of coding experience 👶
-🐍 Creating bots and backend using python 🐍
-🍵 Creating Minecraft mods using NeoForge 🍵
+👶 16 y.o. dev with 6 years of shit-coding and 0 years of coding experience 👶
+🐍 Creating bots and backend using Python 🐍
+🍵 Creating Minecraft mods using Java 🍵
 🦿 Animating in Blender 🦿
-🪟 Using Windows • Linux • Android 🪟
+🪟 Using Linux • Windows • Android 🪟
 </pre>
 <br>
 
