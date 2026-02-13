@@ -21,9 +21,8 @@
 - [Simple Model Engine](https://github.com/Timtaran/sme) - PaperMC plugin to create animated scenes using custom models with add-on support in mind, abandobed due to parent project cancellation, but may be helpful for someone as half-finished prototype + [blender extension](https://github.com/Timtaran/sme-blender) (also prototype)
 
 </div>
-
 <img src="https://count.getloli.com/@timtaran?theme=rule34" width="30%" />
-
 </div>
+[![wakatime](https://wakatime.com/badge/user/018dc745-4f49-49e8-a167-2b59ae66498a.svg)](https://wakatime.com/@018dc745-4f49-49e8-a167-2b59ae66498a)
 
 <!-- (innng github readme used as reference, thx) -->
