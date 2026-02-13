@@ -22,7 +22,8 @@
 
 </div>
 <img src="https://count.getloli.com/@timtaran?theme=rule34" width="30%" />
+<br>
+<a href="https://wakatime.com/@018dc745-4f49-49e8-a167-2b59ae66498a"><img src="https://wakatime.com/badge/user/018dc745-4f49-49e8-a167-2b59ae66498a.svg" alt="Total time coded since Feb 20 2024" /></a>
 </div>
-[![wakatime](https://wakatime.com/badge/user/018dc745-4f49-49e8-a167-2b59ae66498a.svg)](https://wakatime.com/@018dc745-4f49-49e8-a167-2b59ae66498a)
 
 <!-- (innng github readme used as reference, thx) -->
