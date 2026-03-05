@@ -16,7 +16,7 @@
 <div align="left">
 
   My open-source projects:
-- [InteractiveMC](https://github.com/Timtaran/InteractiveMC) -  Addon for Vivecraft mod to support physics and other fancy stuff 
+- [InteractiveMC](https://github.com/Timtaran/InteractiveMC) -  Addon for Vivecraft mod that adds physical interactions
 - [Disable Elytra Outside The End](https://github.com/Timtaran/disable-elytra-outside-the-end) - Minecraft mod that does what says in name
 - [demotivator-bot](https://github.com/Timtaran/demotivator-bot) - Simple Telegram bot to create komarubot-like demotivators
 - [Simple Model Engine](https://github.com/Timtaran/sme) - PaperMC plugin to create animated scenes using custom models with add-on support in mind, abandobed due to parent project cancellation, but may be helpful for someone as half-finished prototype + [blender extension](https://github.com/Timtaran/sme-blender) (also prototype)
