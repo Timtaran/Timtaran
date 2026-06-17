@@ -2,7 +2,7 @@
 <div>
 <img src="assets/Ch_coc_img_01.webp" width="25%" align="left" />
 <a href="https://github.com/Timtaran"><img src="assets/readme1.png" href="https://github.com/Timtaran" width="72%" /></a>
-<a href="https://t.me/ClownsProd"><img src="assets/readme2.png" width="72%" /></a>
+<a href="https://clwn.org/"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
 👶 16 y.o. dev with 6 years of shit-coding and 0 years of coding experience 👶
