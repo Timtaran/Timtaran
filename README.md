@@ -5,7 +5,7 @@
 <a href="https://clwn.org/"><img src="assets/readme2.png" width="72%" /></a>
 
 <pre>
-👶 16 y.o. dev with 6 years of shit-coding and 0 years of coding experience 👶
+👶 17 y.o. dev with 7 years of shit-coding and 0 years of coding experience 👶
 🐍 Creating bots and backend using Python 🐍
 🍵 Creating Minecraft mods using Java 🍵
 🦿 Animating in Blender 🦿
