@@ -9,7 +9,7 @@
 🐍 Creating bots and backend using Python 🐍
 🍵 Creating Minecraft mods using Java 🍵
 🦿 Animating in Blender 🦿
-🪟 Using Linux • Windows • Android 🪟
+❄️ Using Linux • Windows • Android ❄️
 </pre>
 <br>
 
